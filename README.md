@@ -14,7 +14,7 @@ Data analysis is presented in the form of iPython Notebooks.
   - [Probalistic Reasoning](https://github.com/Liping-Yin/Artificial-Intelligence/blob/main/probabilistic%20reasoning.ipynb)<br>Explore probalistic reasoning more about bayesian network by python.
 
 ## Projects
-  - [Machine Learning in NetSecure NIDS](https://github.com/Liping-Yin/Artificial-Intelligence/blob/main/The%20NetSecure%20NIDS/assignment.ipynb)<br>
+  - [Machine Learning in NetSecure NIDS](https://github.com/Liping-Yin/Artificial-Intelligence/blob/main/the%20NetSecure%20NIDS/assignment.ipynb)<br>
    Implement the Network Intrusion Detection System (NIDS) based on Machine Learing algorithm given two datasets of network traffic：benign traffic and unknown traffic.Train the machine learning algorithm with benign traffic, with this trained NIDS, test the unknown traffic to determine whether the data is benign or normal.<br>
 The process of build trained NIDS:<br>
 1.Extract features. <br>
