@@ -3,11 +3,8 @@ Module of 2nd year study about AI application on data analysis
 This repository contains projects and exercises completed by me for academic, self learning, and hobby purposes. 
 Data analysis is presented in the form of iPython Notebooks.
 
-## Contents
-  - [Data Analysis Practices](#Data-Analysis-Practice) | [Web Development Practices](#Web-Development-Practice)
-  
 
-### Data Analysis Practice
+## Data Analysis Practice
 - Artifitial Intelligence Basic
  
   - [Decision Trees](https://github.com/Liping-Yin/Artificial-Intelligence/blob/main/decision%20trees/Week_4%20_ML_Decision_Trees.ipynb)<br>
